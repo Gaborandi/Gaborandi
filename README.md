@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.pulse2.com/cdn/2019/12/Hugging-Face.jpg)](https://huggingface.co/Gaborandi)
 <h1 align="center">Hi 👋, I'm Ahmed Alameldin</h1>
 <h3 align="center">Data Scientist in Natural Language Processing from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://www.fleetscience.org/sites/default/files/images/customer%20ai.gif">
+<img align="right" alt="Coding" width="300" src="https://www.fleetscience.org/sites/default/files/images/customer%20ai.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaborandi&label=Profile%20views&color=0e75b6&style=flat" alt="gaborandi" /> </p>
