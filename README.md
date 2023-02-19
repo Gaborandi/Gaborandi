@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fhugging-face-logo&psig=AOvVaw3tO4wNzFJv5cNLpJ0yWTHI&ust=1676925527803000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCQwMa4ov0CFQAAAAAdAAAAABAO)](https://huggingface.co/Gaborandi)
+[![MasterHead](https://assets.stickpng.com/images/6308b84661b3e2a522f01468.png)](https://huggingface.co/Gaborandi)
 <h1 align="center">Hi 👋, I'm Ahmed Alameldin</h1>
 <h3 align="center">Data Scientist in Natural Language Processing from Egypt</h3>
 (img align="right" alt="Coding" width="400" src="https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif")
