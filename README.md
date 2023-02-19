@@ -1,4 +1,4 @@
-[![MasterHead](https://assets.stickpng.com/images/6308b84661b3e2a522f01468.png)](https://huggingface.co/Gaborandi)
+[![MasterHead](https://cdn.pulse2.com/cdn/2019/12/Hugging-Face.jpg)](https://huggingface.co/Gaborandi)
 <h1 align="center">Hi 👋, I'm Ahmed Alameldin</h1>
 <h3 align="center">Data Scientist in Natural Language Processing from Egypt</h3>
 (img align="right" alt="Coding" width="400" src="https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif")
