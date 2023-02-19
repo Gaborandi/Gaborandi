@@ -1,7 +1,7 @@
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/EllipticalCostlyChrysomelid-size_restricted.gif"
 <h1 align="center">Hi 👋, I'm Ahmed Alameldin</h1>
 <h3 align="center">Data Scientist in Natural Language Processing from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/EllipticalCostlyChrysomelid-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaborandi&label=Profile%20views&color=0e75b6&style=flat" alt="gaborandi" /> </p>
 
