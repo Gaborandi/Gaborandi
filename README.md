@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/vgTm26-GF0UAAAAC/hugging-hug.gif)](https://huggingface.co/Gaborandi)
+[![MasterHead]([https://media.tenor.com/vgTm26-GF0UAAAAC/hugging-hug.gif](https://cdn.pulse2.com/cdn/2019/12/Hugging-Face.jpg))](https://huggingface.co/Gaborandi)
 <h1 align="center">Hi 👋, I'm Ahmed Alameldin</h1>
 <h3 align="center">Data Scientist in Natural Language Processing from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="[https://thumbs.gfycat.com/EllipticalCostlyChrysomelid-size_restricted.gif](https://www.fleetscience.org/sites/default/files/images/customer%20ai.gif)">
