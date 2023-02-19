@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fhuggingface.co%2Fdatasets%2FHuggingfaceStore%2Fimages%2Fresolve%2Fmain%2Fanimated-logo.gif&imgrefurl=https%3A%2F%2Fhuggingface.co%2Fshop&tbnid=0GcvF0ge0e5ngM&vet=12ahUKEwiktMu9saL9AhWHn4QIHRgYCTAQMygEegUIARD2AQ..i&docid=QfaRn2R_h2AydM&w=1200&h=628&q=animated%20huggingface%20gif&hl=en&ved=2ahUKEwiktMu9saL9AhWHn4QIHRgYCTAQMygEegUIARD2AQ)](https://huggingface.co/Gaborandi)
+[![MasterHead](https://cdn.pulse2.com/cdn/2019/12/Hugging-Face.jpg)](https://huggingface.co/Gaborandi)
 <h1 align="center">Hi 👋, I'm Ahmed Alameldin</h1>
 <h3 align="center">Data Scientist in Natural Language Processing from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="[https://thumbs.gfycat.com/EllipticalCostlyChrysomelid-size_restricted.gif](https://www.fleetscience.org/sites/default/files/images/customer%20ai.gif)">
+<img align="right" alt="Coding" width="800" src="[https://thumbs.gfycat.com/EllipticalCostlyChrysomelid-size_restricted.gif](https://www.fleetscience.org/sites/default/files/images/customer%20ai.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaborandi&label=Profile%20views&color=0e75b6&style=flat" alt="gaborandi" /> </p>
 
