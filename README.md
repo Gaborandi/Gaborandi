@@ -1,4 +1,4 @@
-[![MasterHead](https://images.prismic.io/contrary-research/19d1b1f4-90a6-431d-be0e-8ec5cabfd887_Hugging+Face+Long+Logo.png?auto=compress,format)](https://huggingface.co/Gaborandi)
+[![MasterHead](https://assets.st-note.com/production/uploads/images/36414986/5079afe4faf9f2e667ab26005be78486.png)](https://huggingface.co/Gaborandi)
 <h1 align="center">Hi 👋, I'm Ahmed Alameldin</h1>
 <h3 align="center">Data Scientist in Natural Language Processing from Egypt</h3>
 <img align="right" alt="Coding" width="300" src="https://www.fleetscience.org/sites/default/files/images/customer%20ai.gif">
